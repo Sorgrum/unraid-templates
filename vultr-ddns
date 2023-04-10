@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>Vultr-DDNS</Name>
+  <Repository>sorgrum/vultr-ddns</Repository>
+  <Registry>https://hub.docker.com/r/sorgrum/vultr-ddns</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>dns</Support>
+  <Project>https://github.com/Sorgrum/vultr-ddns</Project>
+  <Overview>Configure and synchronize your Vultr DDNS records with a simple UI.</Overview>
+  <Category/>
+  <WebUI>http://[IP]:[PORT:3000]</WebUI>
+  <TemplateURL/>
+  <Icon/>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1681107858</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+</Container>
